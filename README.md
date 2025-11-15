@@ -1,7 +1,7 @@
 # React Essentials
 
 A React learning project that demonstrates core React concepts and modern development patterns through an interactive educational application.
-Deployed Link: https://react-essentials-practice-five.vercel.app/
+- Deployed Link: https://react-essentials-practice-five.vercel.app/
 ---
 
 ## 🚀 Project Features
