@@ -1,7 +1,7 @@
 # React Essentials
 
 A React learning project that demonstrates core React concepts and modern development patterns through an interactive educational application.
-
+- Deployed Link: https://react-essentials-practice-five.vercel.app/
 ---
 
 ## 🚀 Project Features
@@ -214,8 +214,8 @@ npm run build
 
 ---
 
-## License
-MIT
+## License - MIT
+
 ---
 ## Contact
 Maintainer: B M Al-amin Badhon — alamin.badhonn@gmail.com
