@@ -214,8 +214,8 @@ npm run build
 
 ---
 
-## License
-MIT
+## License - MIT
+
 ---
 ## Contact
 Maintainer: B M Al-amin Badhon — alamin.badhonn@gmail.com
