@@ -5,7 +5,9 @@ A React learning project that demonstrates core React concepts and modern develo
 ---
 
 ## 🚀 Project Features
-
+### Dynamic Intro Text
+- The app uses a dynamic introductory phrase (e.g., **Fundamental**, **Crucial**, **Core**) selected randomly **only on full page reload**.
+- This demonstrates how React updates specific UI parts without reloading the entire page — only the tab content re-renders using state.
 ### Core Functionality
 - **Interactive Concept Explorer**: Tab-based UI for exploring React concepts with live code examples.
 - **Dynamic Content Rendering**: State-driven content updates without page reloads.
