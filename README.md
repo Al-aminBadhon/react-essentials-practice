@@ -212,22 +212,10 @@ npm run build
 
 ---
 
-## Contributing
-- Open issues for bugs or feature requests.
-- Pull requests should include tests or a short explanation of visual changes.
-- Keep components small and focused; prefer composition over monolith components.
-
----
-
 ## License
-Choose a license for your repository (e.g., MIT). Add a `LICENSE` file to the repo.
-
+MIT
 ---
-
 ## Contact
-Maintainer: B M Al-amin Badhon — replace with your name and contact information in `package.json` or the repository description.
+Maintainer: B M Al-amin Badhon — alamin.badhonn@gmail.com
 
----
-
-*Generated README for the **React Essentials** learning project.*
 
